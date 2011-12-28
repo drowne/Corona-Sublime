@@ -13,8 +13,3 @@ type in the terminal:
 and
 
 *git clone git@github.com:drowne/Corona-SDK.tmbundle.git Corona*
-
-**or download the last version [HERE] and uncompress it to the packages folder**
-
- [HERE]:
-   http://www.drowne.com/files/corona.zip
