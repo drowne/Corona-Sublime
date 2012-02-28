@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>scope</key>
+	<string>source.lua</string>
 	<key>content</key>
 	<string>addMarker(${1:latitude}, ${2:longitude}, {title = "${3:title}", subtitle = "${4:subtitle}"})</string>
 	<key>name</key>

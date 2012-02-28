@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>scope</key>
+	<string>source.lua</string>
 	<key>content</key>
 	<string>display.setDefault("${1:fillColor, strokeColor, textColor, or lineColor"}", ${2:r}, ${3:g}, ${4:b}, ${5:[alpha]})</string>
 	<key>name</key>

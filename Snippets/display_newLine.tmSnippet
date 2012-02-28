@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>scope</key>
+	<string>source.lua</string>
 	<key>content</key>
 	<string>display.newLine(${1:[parent], }${2:x1}, ${3:y1}, ${4:x2}, ${5:y2})</string>
 	<key>name</key>

@@ -3,8 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>scope</key>
-	<string>Completions</string>
-	<key>scope</key>
 	<string>source.lua</string>
 	<key>settings</key>
 	<dict>

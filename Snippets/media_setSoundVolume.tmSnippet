@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>scope</key>
+	<string>source.lua</string>
 	<key>content</key>
 	<string>media.setSoundVolume(${1:volume, 0 to 1})</string>
 	<key>name</key>

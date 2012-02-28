@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>scope</key>
+	<string>source.lua</string>
 	<key>content</key>
 	<string>widget.newEmbossedText(${1:text}, ${2:xPos}, ${3:yPos}, ${4:font}, ${5:size}, {${6:r}, ${7:g}, ${8:b}})</string>
 	<key>name</key>
