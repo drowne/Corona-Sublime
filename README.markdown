@@ -12,4 +12,4 @@ type in the terminal:
 
 and
 
-*git clone git@github.com:drowne/Corona-SDK.tmbundle.git Corona*
+*git clone git@github.com:drowne/Corona-Sublime.git Corona*
